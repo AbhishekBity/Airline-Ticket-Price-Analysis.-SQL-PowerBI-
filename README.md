@@ -1,13 +1,13 @@
-✈️ Airline Ticket Price Analysis
+**✈️ Airline Ticket Price Analysis**
 
-Tools: SQL | Power BI
+**Tools: SQL | Power BI**
 
-📖 Project Overview
+**📖 Project Overview**
 
 This project analyzes airline ticket pricing data to understand how prices vary based on airline, travel class, booking time, number of stops, and departure time.
 The goal was to use SQL for data analysis and Power BI for visualization and storytelling, simulating a real-world business analytics scenario.
 
-🎯 Business Objectives
+**🎯 Business Objectives**
 
 - Identify factors that influence airline ticket prices
 
@@ -17,13 +17,13 @@ The goal was to use SQL for data analysis and Power BI for visualization and sto
 
 - Provide insights that help customers book flights more economically
 
-🗂 Dataset Information
+**🗂 Dataset Information**
 
 - Records: 300,000+ flight bookings
 
 - Cities: Bangalore, Chennai, Delhi, Hyderabad, Kolkata, Mumbai
 
-Key Columns:
+**Key Columns:**
 
 || Airline ||
 
@@ -41,9 +41,9 @@ Key Columns:
 
 || Ticket Price ||
 
-🧠 SQL Analysis Performed
+**🧠 SQL Analysis Performed**
 
-Key SQL operations used:
+**Key SQL operations used:**
 
 - GROUP BY, ORDER BY
 
@@ -51,7 +51,7 @@ Key SQL operations used:
 
 - Filtering and sorting for trend analysis
 
-Sample Insights from SQL:
+**Sample Insights from SQL:**
 
 - Business class tickets are significantly more expensive than Economy
 
@@ -61,9 +61,9 @@ Sample Insights from SQL:
 
 - Flights with more stops tend to be cheaper
 
-📊 Power BI Dashboard Features
+**📊 Power BI Dashboard Features**
 
-KPI Cards: Average Price, Total Flights, Max & Min Price
+**KPI Cards: Average Price, Total Flights, Max & Min Price**
 
 - Interactive slicers for airline, city, and class
 
@@ -75,7 +75,7 @@ KPI Cards: Average Price, Total Flights, Max & Min Price
 
 - Route-level price comparison using matrix visual
 
-🔍 Key Insights
+**🔍 Key Insights**
 
 - Booking Time: Last-minute bookings are much more expensive
 
@@ -87,19 +87,7 @@ KPI Cards: Average Price, Total Flights, Max & Min Price
 
 - Routes: Route alone has limited impact compared to class and booking time
 
-✅ Conclusion
 
-- This project demonstrates practical skills in:
-
-- SQL-based data analysis
-
-- Business-focused insight generation
-
-- Interactive dashboard creation using Power BI
-
-- Data storytelling for decision-making
-
-It closely reflects real-world airline pricing analysis scenarios.
 
 🔗 Connect With Me
 
