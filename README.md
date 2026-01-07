@@ -1,4 +1,4 @@
-**✈️ Airline Ticket Price Analysis**
+ # ✈️ Airline Ticket Price Analysis
 
 **Tools: SQL | Power BI**
 
@@ -7,7 +7,7 @@
 This project analyzes airline ticket pricing data to understand how prices vary based on airline, travel class, booking time, number of stops, and departure time.
 The goal was to use SQL for data analysis and Power BI for visualization and storytelling, simulating a real-world business analytics scenario.
 
-**🎯 Business Objectives**
+# **🎯 Business Objectives**
 
 - Identify factors that influence airline ticket prices
 
@@ -17,7 +17,7 @@ The goal was to use SQL for data analysis and Power BI for visualization and sto
 
 - Provide insights that help customers book flights more economically
 
-**🗂 Dataset Information**
+# **🗂 Dataset Information**
 
 - Records: 300,000+ flight bookings
 
@@ -41,7 +41,7 @@ The goal was to use SQL for data analysis and Power BI for visualization and sto
 
 || Ticket Price ||
 
-**🧠 SQL Analysis Performed**
+# **🧠 SQL Analysis Performed**
 
 **Key SQL operations used:**
 
@@ -51,7 +51,7 @@ The goal was to use SQL for data analysis and Power BI for visualization and sto
 
 - Filtering and sorting for trend analysis
 
-**Sample Insights from SQL:**
+# **Sample Insights from SQL:**
 
 - Business class tickets are significantly more expensive than Economy
 
@@ -61,7 +61,7 @@ The goal was to use SQL for data analysis and Power BI for visualization and sto
 
 - Flights with more stops tend to be cheaper
 
-**📊 Power BI Dashboard Features**
+# **📊 Power BI Dashboard Features**
 
 **KPI Cards: Average Price, Total Flights, Max & Min Price**
 
@@ -75,7 +75,7 @@ The goal was to use SQL for data analysis and Power BI for visualization and sto
 
 - Route-level price comparison using matrix visual
 
-**🔍 Key Insights**
+# **🔍 Key Insights**
 
 - Booking Time: Last-minute bookings are much more expensive
 
